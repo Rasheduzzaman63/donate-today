@@ -26,6 +26,7 @@ body{
     margin-bottom: 50px;
     font-size: 18px;
 }
+
 .order-link{
     text-decoration: none;
     color:white;
@@ -66,6 +67,12 @@ body{
     background-color: rgba(255, 71, 234, 0.575);
     border: 2px solid tomato;
 }
-.other-amount{
+.other-content{
     text-align: center;
+    margin-top: 40px;
+}
+.hr-row{
+    width:50%;
+    margin-bottom: 40px;
+    color:gray
 }
