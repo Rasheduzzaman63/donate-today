@@ -40,7 +40,7 @@ body{
     margin: 0 auto;
     text-align: center;
 }
-.donate-contain h2{
+h2{
     font-size: 40px;
     font-weight: 700;
 }
@@ -75,4 +75,37 @@ body{
     width:50%;
     margin-bottom: 40px;
     color:gray
+}
+.donate-plan{
+    text-align: center;
+    width: 70%;
+    margin: auto;
+    padding: 100px 0;
+}
+.food-family-container{
+    display: flex;
+    margin-top: 30px;
+}
+.common-div{
+    text-align: left;
+    background-color: aquamarine;
+    width:33.33%;
+    margin: 0 8px;
+    border-radius: 8px;
+}
+.common-div-content{
+    padding-left: 20px;
+    margin: 40px 0;
+}
+.common-div-content h4{
+    font-size: 25px;
+}
+#blue-white{
+    background-color: rgba(197, 197, 230, 0.487);
+}
+#pink-color{
+    background-color: pink;
+}
+#yellow-color{
+    background-color: rgba(180, 180, 116, 0.435);
 }
