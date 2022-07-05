@@ -26,11 +26,46 @@ body{
     margin-bottom: 50px;
     font-size: 18px;
 }
-.banner-conatiner a{
+.order-link{
     text-decoration: none;
     color:white;
     background-color: tomato;
     padding: 15px 20px;
     font-size: 22px;
     border-radius: 10px;
+}
+.donate-contain{
+    width: 40%;
+    margin: 0 auto;
+    text-align: center;
+}
+.donate-contain h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.donate-amount{
+    display: flex;
+    width: 60%;
+    margin:auto;
+    
+}
+.amount{
+    background-color: rgba(228, 217, 217, 0.739);
+    width: 16%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 20px;
+
+}
+.amount h5{
+    font-size: 25px;
+    padding:10px;
+    text-align: center;
+}
+#two-hundred{
+    background-color: rgba(255, 71, 234, 0.575);
+    border: 2px solid tomato;
+}
+.other-amount{
+    text-align: center;
 }
