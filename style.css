@@ -109,3 +109,32 @@ h2{
 #yellow-color{
     background-color: rgba(180, 180, 116, 0.435);
 }
+.update-section{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.form-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+input{
+    height: 40px;
+    width: 250px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+.subscribe-btn{
+    background-color: tomato;
+    border: none;
+    padding: 11px 20px;
+    font-size: 19px;
+    color:white;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-left:-10px;
+}
+form{
+    background-color: rgba(214, 158, 68, 0.456);
+    padding: 80px 150px;
+}
