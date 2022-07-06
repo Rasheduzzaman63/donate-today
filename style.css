@@ -35,6 +35,9 @@ body{
     font-size: 22px;
     border-radius: 10px;
 }
+.donate-section{
+    margin-top: 50px;
+}
 .donate-contain{
     width: 40%;
     margin: 0 auto;
@@ -65,7 +68,8 @@ h2{
 }
 #two-hundred{
     background-color: rgba(255, 71, 234, 0.575);
-    border: 2px solid tomato;
+    border: 4px solid tomato;
+    border-radius: 5px;
 }
 .other-content{
     text-align: center;
@@ -74,7 +78,7 @@ h2{
 .hr-row{
     width:50%;
     margin-bottom: 40px;
-    color:gray
+    color: gray;
 }
 .donate-plan{
     text-align: center;
@@ -108,6 +112,34 @@ h2{
 }
 #yellow-color{
     background-color: rgba(180, 180, 116, 0.435);
+}
+.immediate-section{
+    margin:0 auto;
+    width: 80%;
+    padding: 50px 0;
+}
+.immediate-section h2{
+    text-align: center;
+}
+.immediate-section p{
+    text-align: center;
+
+}
+.immediate-section h4{
+    font-size: 25px;
+}
+.immediate-section li{
+    font-size: 21px;
+}
+.list-div{
+    display: flex;
+   
+}
+.image-div img{
+    padding-top: 20px;
+    width: 500px;
+    height: 380px;
+    border-radius: 10px;
 }
 .update-section{
     text-align: center;
